@@ -1,9 +1,8 @@
-import { Button } from "@/components/ui/button";
 
 const page = ()=>{
   return(
     <div>
-      <Button variant={"new"}>Click me!</Button>
+      heloworld!
     </div>
   );
 }
